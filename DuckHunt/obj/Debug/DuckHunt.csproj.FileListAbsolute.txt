@@ -1,0 +1,30 @@
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe.config
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\bin\Debug\Cursor1.cur
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\bin\Debug\DuckHunt.pdb
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.csprojResolveAssemblyReference.cache
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Form1.resources
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Properties.Resources.resources
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.csproj.GenerateResource.Cache
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.exe
+D:\Ryabchenko\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.pdb
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe.config
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.exe
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.pdb
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Form1.resources
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Properties.Resources.resources
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\obj\Debug\DuckHunt.csproj.GenerateResource.Cache
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\bin\Debug\DuckHunt.pdb
+E:\Cloud Mail.Ru\Duck\DuckHunt\DuckHunt\bin\Debug\Crosshair.cur
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe.config
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\obj\Debug\DuckHunt.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\obj\Debug\DuckHunt.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\bin\Debug\Crosshair.cur
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\bin\Debug\DuckHunt.exe
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\bin\Debug\DuckHunt.pdb
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\obj\Debug\DuckHunt.csprojResolveAssemblyReference.cache
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Form1.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\obj\Debug\DuckHunt.Properties.Resources.resources
+E:\Cloud Mail.Ru\Программирование\С#\WinForms\DZ_Ryabchenko_48_DuckHunt_16.01.2017\DuckHunt\DuckHunt\obj\Debug\DuckHunt.csproj.GenerateResource.Cache
